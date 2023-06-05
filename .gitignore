@@ -70,3 +70,10 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Auto-generated
+/[Aa]ssets/[Aa]ddressableAssetsData/link.xml.meta
+/[Aa]ssets/[Aa]ddressableAssetsData/link.xml
+
+# Large Files
+*.mp4
